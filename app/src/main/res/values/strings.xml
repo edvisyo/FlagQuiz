@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlagQuiz</string>
+    <string name="image_description">imageError</string>
+    <string name="guess_country">What is this cuntry</string>
+    <string name="button">button</string>
+    <string name="text_view">Information for User</string>
+</resources>
